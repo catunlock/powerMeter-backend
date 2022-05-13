@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "c56ahnna/SawQyInp+vea8/JOYAQe19Q7ugtKsqwVv2DxDIo8WMDYPXiJ0DiKKrDECeIYvUlakOP4cgYnCJsPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunlo\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"WebSocketSharp 1.0.3-rc11\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "WebSocketSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

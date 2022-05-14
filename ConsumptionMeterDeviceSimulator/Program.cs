@@ -6,7 +6,7 @@ IPAddress iPAddress = IPAddress.Loopback;
 int port = 80;
 
 var wss = new WebSocketServer(iPAddress, port);
-wss.AddWebSocketService<MeterBehaviour>("/Laputa");
+wss.AddWebSocketService<MeterBehaviour>("/ws");
 wss.Start();
 
 Console.WriteLine($"Websocket listening at ws://{iPAddress}:{port}");

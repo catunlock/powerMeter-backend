@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AK3snvTiEJFlqAudkGVcznbrCdcFQT6pzfVS0kCPSa5xqiiV3yIIKsktajwdk5fEGJPG7ecB6dokT3jrdySvaQ==",
+  "dgSpecHash": "eM7Wk5fKUBtwNc/APFsez8jbiDjO1FHBxHnQVkSqsyWXyAlz2m/BZlzaYvhIwOlo4TzCBnzLeXWY1tURE8B/yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\ConsumptionMeterDeviceSimulator\\ConsumptionMeterDeviceSimulator.csproj",
+  "projectFilePath": "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\ConsumptionMeterDeviceSimulator\\ConsumptionMeterDeviceSimulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunlo\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
   ],

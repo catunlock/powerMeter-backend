@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj": {}
+    "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\medidorBackend2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj": {
+    "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\medidorBackend2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj",
+        "projectUniqueName": "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\medidorBackend2.csproj",
         "projectName": "medidorBackend2",
-        "projectPath": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj",
+        "projectPath": "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\medidorBackend2.csproj",
         "packagesPath": "C:\\Users\\sunlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\obj\\",
+        "outputPath": "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

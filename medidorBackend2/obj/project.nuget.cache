@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c56ahnna/SawQyInp+vea8/JOYAQe19Q7ugtKsqwVv2DxDIo8WMDYPXiJ0DiKKrDECeIYvUlakOP4cgYnCJsPw==",
+  "dgSpecHash": "A5P6Nm1eVWYQdjxZ4/zVYOJXZ22JfeLicAbzJF5piDCQnIiAAALdQaNvtmkkAwJaq/57/GyN3f5RoCX5G3w5PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sunlo\\Documents\\medidor\\medidorBackend2\\medidorBackend2\\medidorBackend2.csproj",
+  "projectFilePath": "C:\\Users\\sunlo\\Source\\Repos\\catunlock\\powerMeter-backend\\medidorBackend2\\medidorBackend2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sunlo\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
   ],
